@@ -1,5 +1,5 @@
 # Portfolio
-A portfolio website developed using Flutter web and hosted on Netlify
+A portfolio website built from scratch using Flutter web and hosted on Netlify
 <br> <br>
 <img src="screenshot/portfolio.png" width=800 height="auto">
 <br>
